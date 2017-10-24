@@ -1,4 +1,4 @@
-# Python-and-R:NYC_Taxi_Trip_Duration [from kaggle]
+# Python and R : NYC_Taxi_Trip_Duration [from kaggle]
 https://www.kaggle.com/c/nyc-taxi-trip-duration
 A project with combined usage of Python and R <br>
 # A work in progress; trying out some new things like:
